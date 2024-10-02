@@ -1,11 +1,11 @@
-# Hola me llamo María Luz Lanzillota :wave:
-<h1>Tecnologías conocidas :mortar_board:<h1/>
+# align="center" Hola me llamo María Luz Lanzillota :wave:
+<h1 align="center">Tecnologías conocidas :mortar_board:<h1/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,php,vscode,bootstrap,sass,wordpress,github,figma,blender,ae,au,ai,ps,pr,unity" />
   </a>
 </p>
-<h2>Conectate conmigo :iphone:<h2/>
+<h2 align="center">Conectate conmigo :iphone:<h2/>
 <p align="center">
   <a href="https://www.instagram.com/luzlanzi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
