@@ -1,4 +1,7 @@
-align="center"# Hola me llamo María Luz Lanzillota :wave:
+<p align="center">
+  # Hola, me llamo María Luz Lanzillota :wave:
+</p>
+
 <h1 align="center">Tecnologías conocidas :mortar_board:<h1/>
 <p align="center">
   <a href="https://skillicons.dev">
