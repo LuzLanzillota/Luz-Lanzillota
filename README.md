@@ -1,8 +1,8 @@
-<p align="center">
+<h1 align="center">
   # Hola, me llamo María Luz Lanzillota :wave:
-</p>
+</h1>
 
-<h1 align="center">Tecnologías conocidas :mortar_board:<h1/>
+<h2 align="center">Tecnologías conocidas :mortar_board:<h2/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,php,vscode,bootstrap,sass,wordpress,github,figma,blender,ae,au,ai,ps,pr,unity" />
