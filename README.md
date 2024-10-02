@@ -1,5 +1,5 @@
 <h1 align="center">
-  # Hola, me llamo María Luz Lanzillota :wave:
+ Hola, me llamo María Luz Lanzillota :wave:
 </h1>
 
 <h2 align="center">Tecnologías conocidas :mortar_board:<h2/>
